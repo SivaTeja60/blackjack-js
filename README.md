@@ -1,10 +1,4 @@
-# coa0648e2a621aa5b6fec8c8d
-
-Quick start:
-
-```
-$ npm install
-$ npm start
+## BlackJack Game
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
